@@ -1,0 +1,10 @@
+
+]
+java:S1192"IDefine a constant instead of duplicating this literal "\33[0;2m" 3 times.(¥¾„±
+N
+java:S1118":Add a private constructor to hide the implicit public one.(é¥ùö
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¥¾„±
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ñƒğéıÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(§ÕÆú
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(²‰ôüÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(§ÕÆú

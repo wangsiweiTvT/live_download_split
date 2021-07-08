@@ -1,0 +1,93 @@
+
+W
+java:S1118$":Add a private constructor to hide the implicit public one.(¿Š«¬8µÚ´‰¤/
+p
+java:S2095Ò"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†Â¸ıÿÿÿÿ8µÚ´‰¤/
+Y	java:S125Ö"<This block of commented-out lines of code should be removed.(†€éˆ8µÚ´‰¤/
+c
+java:S1193¯"@Replace the usage of the "instanceof" operator by a catch block.(ïÁàûúÿÿÿÿ8µÚ´‰¤/
+p
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»·£8µÚ´‰¤/
+D
+java:S1168ï"&Return an empty array instead of null.(¥¹ï8µÚ´‰¤/
+X
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8µÚ´‰¤/
+{	java:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(¡¹£Ãşÿÿÿÿ8µÚ´‰¤/
+S
+java:S1874¯"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(àıç“8µÚ´‰¤/
+Q
+java:S1874—".Remove this use of "divide"; it is deprecated.(Í¹ß†øÿÿÿÿ8µÚ´‰¤/
+L
+java:S1874¯".Remove this use of "divide"; it is deprecated.(àıç“8µÚ´‰¤/
+r
+java:S1215Ë"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8µÚ´‰¤/
+q
+java:S4042ç"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ8µÚ´‰¤/
+m
+java:S2674¤"JCheck the return value of the "read" call to see how many bytes were read.(ŸİÃÎşÿÿÿÿ8µÚ´‰¤/
+M
+java:S2093µ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8µÚ´‰¤/
+d
+java:S2142€"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8µÚ´‰¤/
+H
+java:S1659 "%Declare "tempEnd" on a separate line.(­æÓ¶øÿÿÿÿ8µÚ´‰¤/
+X	java:S899ù";Do something with the "boolean" value returned by "delete".(È×ö8µÚ´‰¤/
+9
+java:S2438‰""Argument 1" is a "Thread".(ÊÙ›Á8µÚ´‰¤/
+S
+java:S1874¯"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(àıç“8µÚ´‰¤/
+S
+java:S1874—"0Remove this use of "setScale"; it is deprecated.(Í¹ß†øÿÿÿÿ8µÚ´‰¤/
+c	java:S112ê"FDefine and throw a dedicated exception instead of using a generic one.(Ê‰æÒ8µÚ´‰¤/
+n	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·é±ù8µÚ´‰¤/
+F
+java:S5542ô"#Use secure mode and padding scheme.(ÿò•Æÿÿÿÿÿ8µÚ´‰¤/
+W
+java:S2168†"9Remove this dangerous instance of double-checked locking.(¯ÃÍô8µÚ´‰¤/
+p
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ò «¦8µÚ´‰¤/
+X
+java:S1874—"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Í¹ß†øÿÿÿÿ8µÚ´‰¤/
+q
+java:S4042Í"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8µÚ´‰¤/
+u
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ü¼¸Èşÿÿÿÿ8µÚ´‰¤/
+d
+java:S2142¿"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8µÚ´‰¤/
+_	java:S899Î"BDo something with the "boolean" value returned by "createNewFile".(Ò¯”€8µÚ´‰¤/
+{	java:S135Ü"YReduce the total number of break and continue statements in this loop to use at most one.(ßò–¬ùÿÿÿÿ8µÚ´‰¤/
+X
+java:S1874—"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Í¹ß†øÿÿÿÿ8µÚ´‰¤/
+d
+java:S2142¾"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8µÚ´‰¤/
+{	java:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(€éã­øÿÿÿÿ8µÚ´‰¤/
+K	java:S108¹")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8µÚ´‰¤/
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(ìö„€ûÿÿÿÿ8µÚ´‰¤/
+N
+java:S1874¯"0Remove this use of "setScale"; it is deprecated.(àıç“8µÚ´‰¤/
+l
+java:S2095Ï"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î8µÚ´‰¤/
+u	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢µŒî8µÚ´‰¤/
+M
+java:S2093…"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8µÚ´‰¤/
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(†€éˆ8µÚ´‰¤/
+]	java:S899ç";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ8µÚ´‰¤/
+c
+java:S1193¯"@Replace the usage of the "instanceof" operator by a catch block.(ïÁàûúÿÿÿÿ8µÚ´‰¤/
+i
+java:S2142¹"FEither re-interrupt this method or rethrow the "InterruptedException".(®ûºöÿÿÿÿÿ8µÚ´‰¤/
+>
+java:S1116i"Remove this empty statement.(Åñ­õşÿÿÿÿ8µÚ´‰¤/
+p
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ê÷ò‡8µÚ´‰¤/
+d
+java:S2142°"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8µÚ´‰¤/
+V	java:S899Í";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+X	java:S125-"<This block of commented-out lines of code should be removed.(Û“¤8†Ê·‰¤/
+r	java:S1165"VRename this field "DOWNLOADURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùå’Œ8µÚ´‰¤/
+d
+java:S2142˜"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8µÚ´‰¤/
+l
+java:S4042ù"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(È×ö8µÚ´‰¤/
+p
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ïãá³8µÚ´‰¤/

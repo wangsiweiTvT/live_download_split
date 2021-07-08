@@ -1,0 +1,26 @@
+
+X	java:S1255"<This block of commented-out lines of code should be removed.(–ÌŒÂ8««Ö‰¤/
+]	java:S1253"<This block of commented-out lines of code should be removed.(‡Œ–Âûÿÿÿÿ8†’Ö‰¤/
+]	java:S125B"<This block of commented-out lines of code should be removed.(¯é‘©ÿÿÿÿÿ8×”Õ¶¦/
+C
+java:S2111J"!Use "BigDecimal.valueOf" instead.(èÌŞøÿÿÿÿ8ı£è¶¦/
+X	java:S1250"<This block of commented-out lines of code should be removed.(˜ï¹Ş8µ’Î“¥/
+\
+java:S1128"?Remove this unused import 'java.util.zip.DeflaterOutputStream'.(í¾èÀ8øöª½¥/
+]	java:S125["<This block of commented-out lines of code should be removed.(Ôº†İÿÿÿÿÿ8œ«¨³¦/
+W
+java:S1874J"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(èÌŞøÿÿÿÿ8ø‘î¶¦/
+r
+java:S2095"PUse try-with-resources or close this "FFmpegFrameGrabber" in a "finally" clause.(©¼­Æÿÿÿÿÿ8§–Ó‰¤/
+P
+java:S1874J".Remove this use of "divide"; it is deprecated.(èÌŞøÿÿÿÿ8ø‘î¶¦/
+]	java:S125d"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8¢ÑÀ³¦/
+X	java:S125)"<This block of commented-out lines of code should be removed.(şúÍ—8¹™ü’¤/
+n
+java:S2095&"QUse try-with-resources or close this "FFmpegFrameRecorder" in a "finally" clause.(úòñÜ8§–Ó‰¤/
+f
+java:S3252]"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ˆ¬Èù8œ«¨³¦/
+a
+java:S1128"?Remove this unused import 'org.bytedeco.ffmpeg.global.avcodec'.(àú»“ûÿÿÿÿ8®ÄÔ¶¦/
+P
+java:S1128".Remove this unused import 'java.util.EnumSet'.(ÍäÚ“úÿÿÿÿ8»…“´¦/

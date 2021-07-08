@@ -1,0 +1,13 @@
+
+l
+java:S2095"PUse try-with-resources or close this "OpenCVFrameGrabber" in a "finally" clause.(Ù¼ð%8ÞàÄ¶¦/
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ˆ¬Èù8ÞàÄ¶¦/
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InterruptedException' which is a subclass of 'java.lang.Exception'.(Ø·ýÏÿÿÿÿÿ8Ÿ“Ã¶¦/
+V
+java:S1854"9Remove this useless assignment to local variable "image".(¦šŽû8Õ‚ˆ¸¦/
+j
+java:S2095"HUse try-with-resources or close this "ToIplImage" in a "finally" clause.(„Áª®þÿÿÿÿ8´›ú¶¦/
+G
+java:S1481"*Remove this unused "image" local variable.(¦šŽû8™œˆ¸¦/
